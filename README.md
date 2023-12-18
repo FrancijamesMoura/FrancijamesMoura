@@ -19,7 +19,7 @@ I'm Francijames Moura, I'm a Front End programmer, I'm currently learning and cr
 <br>
 <a href="https://www.instagram.com/francijamesmoura/?igshid=MTNiYzNiMzkwZA%3D%3D">
 <img aling="left" alt="icone do instagram" width="110px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>  
+</a> 
 </p>
 <br>
 
